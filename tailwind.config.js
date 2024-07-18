@@ -10,13 +10,13 @@ export default {
       fontFamily: {
         outfit: ['"Outfit"', ...defaultTheme.fontFamily.sans],
       },
-    },
-    colors: {
-      blue: '#2C7DFA',
-      'blue-shade': '#3685FF',
-      'dark-navy': '#1F314F',
-      gray: '#7D889E',
-      'light-gray': '#D5E1EF',
+      colors: {
+        blue: '#2C7DFA',
+        'blue-shade': '#3685FF',
+        'dark-navy': '#1F314F',
+        gray: '#7D889E',
+        'light-gray': '#D5E1EF',
+      },
     },
   },
   plugins: [],
